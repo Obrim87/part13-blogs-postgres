@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJzb25qYUBtYWlsLmNvbSIsImlhdCI6MTcxODMyMTI2MX0.iWstub96bwBbS6_MfLeWQAFqDQCRdq6r3r-lqqTRb2A
+
+{
+  "author": "Sum Yung Guy",
+  "url": "www.sonjatheforeman.com",
+  "title": "User disabled v2",
+  "year": 1999,
+  "likes": 69420
+}

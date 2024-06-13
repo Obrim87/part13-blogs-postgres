@@ -1,0 +1,5 @@
+{
+  "cSpell.ignoreWords": ["mybetterblog", "myblog"],
+  "cSpell.words": ["linebreak"],
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "vue"]
+}
